@@ -1,0 +1,18 @@
+﻿生成启动时间为 2015/12/1 15:58:09。
+     1>项目“D:\project\多线程\多线程.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /Od /Oi /Oy- /D WIN32 /D NDEBUG /D _CONSOLE /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /wd4996 /analyze- /errorReport:prompt "主程序.cpp"
+         主程序.cpp
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\project\多线程\Release\多线程.exe" /INCREMENTAL:NO /NOLOGO ws2_32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\project\多线程\Release\多线程.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\project\多线程\Release\多线程.lib" /MACHINE:X86 /SAFESEH Release\Resource.res
+         "Release\主程序.obj"
+         HTTPDownloader.lib
+         HTTPDownloader.lib(1.obj) : 找到 MSIL .netmodule 或使用 /GL 编译的模块；正在使用 /LTCG 重新启动链接；将 /LTCG 添加到链接命令行以改进链接器性能
+         正在生成代码
+         已完成代码的生成
+         多线程.vcxproj -> D:\project\多线程\Release\多线程.exe
+     1>已完成生成项目“D:\project\多线程\多线程.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.51
